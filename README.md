@@ -1,4 +1,4 @@
-# Drowsiness Detection System
+# Driver Drowsiness Detection System
 
 This Python project detects drowsiness in individuals using OpenCV and a pre-trained Convolutional Neural Network (CNN) model.
 
